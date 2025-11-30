@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\Patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E90D90C-5FD0-484F-942B-1713C7179CBC}|Patterns\\Patterns.csproj|d:\\vs\\patterns\\patterns\\proxypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E90D90C-5FD0-484F-942B-1713C7179CBC}|Patterns\\Patterns.csproj|solutionrelative:patterns\\proxypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E90D90C-5FD0-484F-942B-1713C7179CBC}|Patterns\\Patterns.csproj|d:\\vs\\patterns\\patterns\\decoratorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E90D90C-5FD0-484F-942B-1713C7179CBC}|Patterns\\Patterns.csproj|solutionrelative:patterns\\decoratorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E90D90C-5FD0-484F-942B-1713C7179CBC}|Patterns\\Patterns.csproj|d:\\vs\\patterns\\patterns\\mediatorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E90D90C-5FD0-484F-942B-1713C7179CBC}|Patterns\\Patterns.csproj|solutionrelative:patterns\\mediatorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E90D90C-5FD0-484F-942B-1713C7179CBC}|Patterns\\Patterns.csproj|d:\\vs\\patterns\\patterns\\statepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E90D90C-5FD0-484F-942B-1713C7179CBC}|Patterns\\Patterns.csproj|solutionrelative:patterns\\statepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E90D90C-5FD0-484F-942B-1713C7179CBC}|Patterns\\Patterns.csproj|d:\\vs\\patterns\\patterns\\prototypepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E90D90C-5FD0-484F-942B-1713C7179CBC}|Patterns\\Patterns.csproj|solutionrelative:patterns\\prototypepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E90D90C-5FD0-484F-942B-1713C7179CBC}|Patterns\\Patterns.csproj|d:\\vs\\patterns\\patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E90D90C-5FD0-484F-942B-1713C7179CBC}|Patterns\\Patterns.csproj|solutionrelative:patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProxyPattern.cs",
+              "DocumentMoniker": "D:\\VS\\Patterns\\Patterns\\ProxyPattern.cs",
+              "RelativeDocumentMoniker": "Patterns\\ProxyPattern.cs",
+              "ToolTip": "D:\\VS\\Patterns\\Patterns\\ProxyPattern.cs",
+              "RelativeToolTip": "Patterns\\ProxyPattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T00:55:30.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DecoratorPattern.cs",
+              "DocumentMoniker": "D:\\VS\\Patterns\\Patterns\\DecoratorPattern.cs",
+              "RelativeDocumentMoniker": "Patterns\\DecoratorPattern.cs",
+              "ToolTip": "D:\\VS\\Patterns\\Patterns\\DecoratorPattern.cs",
+              "RelativeToolTip": "Patterns\\DecoratorPattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T00:33:20.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MediatorPattern.cs",
+              "DocumentMoniker": "D:\\VS\\Patterns\\Patterns\\MediatorPattern.cs",
+              "RelativeDocumentMoniker": "Patterns\\MediatorPattern.cs",
+              "ToolTip": "D:\\VS\\Patterns\\Patterns\\MediatorPattern.cs",
+              "RelativeToolTip": "Patterns\\MediatorPattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T00:32:52.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatePattern.cs",
+              "DocumentMoniker": "D:\\VS\\Patterns\\Patterns\\StatePattern.cs",
+              "RelativeDocumentMoniker": "Patterns\\StatePattern.cs",
+              "ToolTip": "D:\\VS\\Patterns\\Patterns\\StatePattern.cs",
+              "RelativeToolTip": "Patterns\\StatePattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T00:32:26.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrototypePattern.cs",
+              "DocumentMoniker": "D:\\VS\\Patterns\\Patterns\\PrototypePattern.cs",
+              "RelativeDocumentMoniker": "Patterns\\PrototypePattern.cs",
+              "ToolTip": "D:\\VS\\Patterns\\Patterns\\PrototypePattern.cs",
+              "RelativeToolTip": "Patterns\\PrototypePattern.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T00:31:43.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS\\Patterns\\Patterns\\Program.cs",
+              "RelativeDocumentMoniker": "Patterns\\Program.cs",
+              "ToolTip": "D:\\VS\\Patterns\\Patterns\\Program.cs",
+              "RelativeToolTip": "Patterns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:21:18.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
